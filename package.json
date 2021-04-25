@@ -1,0 +1,19 @@
+{
+  "name": "petstoreapi-cypress",
+  "version": "1.0.0",
+  "description": "Testing PetStore API with Cypress and Cucumber",
+  "main": "index.js",
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "scripts": {
+    "test": "npx cypress run",
+    "open": "npx cypress open"
+  },
+  "author": "Nayla Taguada",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^7.1.0",
+    "cypress-cucumber-preprocessor": "^4.1.0"
+  }
+}

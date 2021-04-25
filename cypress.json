@@ -1,0 +1,6 @@
+{
+    "testFiles": "**/*.feature",
+    "env": {
+        "apiUrl": "https://petstore.swagger.io/v2"
+    }
+}
