@@ -2,6 +2,8 @@
 
 E2E test with Cypress and Cucumber
 
+See API definition on https://petstore.swagger.io/#/
+
 ## Installation
 
 Needed [Node.js](https://nodejs.dev/) installed.
